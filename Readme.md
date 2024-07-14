@@ -9,6 +9,3 @@ Please view the `Guides` folder for multiple files on how the software works.
 ## Framework
 - Django
 - React
-
-## Credit
-- Project was made by ...
